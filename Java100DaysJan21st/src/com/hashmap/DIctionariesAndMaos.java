@@ -2,9 +2,7 @@ package com.hashmap;
 
 import java.util.HashMap;
 import java.util.Scanner;
-
 public class DIctionariesAndMaos {
-
 	public static void main(String[] args)
 	{
 		Scanner input = new Scanner(System.in);
